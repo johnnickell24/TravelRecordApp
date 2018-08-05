@@ -4,9 +4,7 @@
              x:Class="TravelRecordApp.ProfilePage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to the Profile Page!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Welcome to the Profile Page!" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

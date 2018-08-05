@@ -4,7 +4,7 @@
              x:Class="TravelRecordApp.HistoryPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to the History page" />
+            <Label Text="Welcome to the History Page!" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

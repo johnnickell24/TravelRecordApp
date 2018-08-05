@@ -4,7 +4,7 @@
              x:Class="TravelRecordApp.MapPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to the Map page!" />
+            <Label Text="Welcome to the Map Page!" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
