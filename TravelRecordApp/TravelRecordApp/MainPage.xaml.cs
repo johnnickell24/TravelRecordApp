@@ -21,11 +21,11 @@ namespace TravelRecordApp
 
             if (isEmailEmpty || isPasswordEmpty)
             {
-
+                
             }
             else
             {
-
+                Navigation.PushAsync(new HomePage());
             }
         }
     }
