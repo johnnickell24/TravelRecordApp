@@ -4,6 +4,9 @@
             xmlns:local="clr-namespace:TravelRecordApp"
             x:Class="TravelRecordApp.HomePage">
 
+    <local:HistoryPage Title="History"/>
+    <local:MapPage Title="Maps"/>
+    <local:ProfilePage Title="Profile"/>
     
 
 

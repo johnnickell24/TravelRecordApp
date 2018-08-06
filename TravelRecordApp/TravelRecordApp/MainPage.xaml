@@ -15,7 +15,7 @@
                 Margin="0,50,0,0"
                 Text="Login"
                 Clicked="LoginButton_Clicked"
-                BackgroundColor="LightBlue"
+                BackgroundColor="DarkOliveGreen"
                 TextColor="White"/>
     </StackLayout>
 
