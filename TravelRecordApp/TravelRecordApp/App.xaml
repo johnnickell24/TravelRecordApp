@@ -5,6 +5,12 @@
 	<Application.Resources>
         <ResourceDictionary>
             <Color x:Key="mainColor">#FF5A60</Color>
+            <Color x:Key="whiteColor">#FFFFFF</Color>
+            
+            <Style x:Key="normalButton" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="{StaticResource mainColor}"/>
+                <Setter Property="TextColor" Value="{StaticResource whiteColor}" />
+            </Style>
         </ResourceDictionary>
     </Application.Resources>
 </Application>
